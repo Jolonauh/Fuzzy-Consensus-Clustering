@@ -147,4 +147,4 @@ Wu, J., et al. "Fuzzy Consensus Clustering With Applications on Big Data"
 
 ## License
 
-This project is licensed under the [MIT License](./LICENSE.txt).
+This project is licensed under the [MIT License](./LICENSE).
